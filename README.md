@@ -10,7 +10,7 @@ We value learning, community and trust. We try to work with each other as openly
 
  * We are open about what we know and understand. The knowledge we collectively use in our jobs is too much for one person. Rather than hiding our unfamiliarity with a subject we ask for help or clarification.
 
- * We learn what we can about all the different codebases, systems and tooling that the team uses on a daily basis. While we don't expect to know everything we do try to learn how things work, and we factor time for learning into our estimates for tasks.
+ * We learn what we can about all the different codebases, systems and tooling that the team uses on a daily basis. While we don't expect people to know every aspect of our system and its architecture, we should aim to help those interested to learn and understand it and to encourage this interest wherever possible. We should also factor time for learning into our estimates for tasks.
 
  * We help each other to learn, and don't store knowledge for ourselves. When we learn something new we document our findings to help others get up to speed and offer help to our colleagues.
 
@@ -39,7 +39,7 @@ We value high quality code, refactoring and bug free production environments.  A
 
  * We write tests for all code that goes to production. Our codebases are large and complex. Tests help ensure that we aren't breaking things.
 
- * Our prototypes do not make their way to production. While its completely legitimate to create prototypes to explore our ideas or solutions, once we've worked out how to make something we go back and make that the code is robust and production ready. This means adding unit or integration tests and making sure the work satisfies security and performance requirements. We do not cut corners to reach deadlines.
+ * Our prototypes do not make their way to production. While its completely legitimate to create prototypes to explore our ideas or solutions, once we've worked out how to make something we go back and make sure that the code is robust and production ready. This means adding unit or integration tests and making sure the work satisfies security and performance requirements. We do not cut corners to reach deadlines.
 
  * Developers test their own code thoroughly, ensuring their code works on all the devices and clients we support. Our testers and developers work collaboratively to determine the appropriate coverage and methodology for test automation. Both testers and developers fully test code manually, with the tester being the second pair of eyes.
 
