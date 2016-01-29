@@ -85,7 +85,12 @@ Further reading:
 
  * [BBC Mobile accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 
-## Make things open
+## We value the benefits of the Linux and "Open Source" principles 
 
-We should share what we’re doing whenever we can. With colleagues, with users, with the world. Share code, share designs, share ideas, share intentions, share failures. The more eyes there are on a service the better it gets — howlers are spotted, better alternatives are pointed out, the bar is raised.
-Much of what we’re doing is only possible because of open source code and the generosity of the broader community. We should pay that back.
+We try to share as much as possible what we're doing with the rest of the development community. Share code, share designs, share ideas, share intentions, share failures. Much of what we’re doing is only possible because of open source code and the generosity of the broader community. We should pay that back.
+
+ * We favour small, single purpose programs over monolithic structures.
+
+ * We benefit from the open source community so we contribute to the open source community as much as possible.
+
+ * We help developers to progress their career by using open source projects to build individual profiles outside of the company.
