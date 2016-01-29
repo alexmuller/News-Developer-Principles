@@ -85,7 +85,7 @@ Further reading:
 
  * [BBC Mobile accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 
-## We value Linux and "Open Source" principles
+## We value Linux and Open Source principles
 
 We try to share as much as possible what we're doing with the rest of the development community. Share code, share designs, share ideas, share intentions, share failures. Much of what we’re doing is only possible because of open source code and the generosity of the broader community. We should pay that back.
 
