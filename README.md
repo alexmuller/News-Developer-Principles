@@ -7,7 +7,7 @@ Our culture is the sum of all of our attitudes and actions. Having a good cultur
 Respect, inclusivity, and diversity are values we aim to uphold.
 
  * We do not tolerate offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
- * We support each other and ensure that a Dev Lead is made aware of any inappropriate behaviour.
+ * We support each other and ensure that a line manager is made aware of any inappropriate behaviour.
 
 ## We encourage learning
 
