@@ -2,13 +2,9 @@
 
 Our culture is the sum of all of our attitudes and actions. Having a good culture requires that we all set the best example we can for each other. This document lists the core principles we aspire to in our engineering culture.
 
-## We respect each other
+## We are inclusive
 
-Respect, inclusivity, and diversity are values we aim to uphold.
-
- * We do not tolerate harassment. This includes:
-   * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
- * We support each other and ensure that a line manager is made aware of any inappropriate behaviour.
+We are dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
 ## We encourage learning
 
