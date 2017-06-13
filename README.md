@@ -6,6 +6,24 @@ Our culture is the sum of all of our attitudes and actions. Having a good cultur
 
 We are dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
+## We value all of our users
+
+This is for everyone. Accessible design is good design. Everything we build should be as inclusive as possible. We’re building things for the whole country not just elite users.
+
+ * We recognise that the people who most need our services are often the people who find them hardest to use. We think about those people from the start.
+
+ * We create accessible, legible experiences.
+
+ * We adhere to the highest quality accessibility conventions as a priority.
+
+ * We always put user convenience above developer convenience.
+
+ * Making something look simple is easy. Making something simple to use is much harder, especially when the underlying systems are complex, but that’s what we always attempt to do.
+
+Further reading:
+
+ * [BBC Mobile accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
+
 ## We encourage learning
 
 We value learning, community and trust. We try to work with each other as openly and collaboratively as possible.
@@ -18,15 +36,17 @@ We value learning, community and trust. We try to work with each other as openly
 
  * We help each other to learn, and don't store knowledge for ourselves. When we learn something new we document our findings to help others get up to speed and offer help to our colleagues.
 
-## We strive to be as objective as possible
+## We all collectively own everything the team creates
 
-People are complicated. We expect to be misunderstood and to misunderstand others. When this occurs we resist the urge to be defensive or assign blame, and we try not to take offense where no offense was intended. We give each other the benefit of the doubt.
+Building a good code infrastructure involves the work of the team, not an individual who feels like the sole proprietor of a project. Collective ownership gives us all the opportunity to train and learn, and helps individual team members avoid becoming burdened by being the only one who knows some specific thing.
 
- * We are open to alternative ways of thinking.
- * We are more interested in the right solution for our team than an individual opinion.
- * Technology moves fast and we embrace change.
+ * Collaboration is key
 
-We don't do things, "because that's how we've always done it". And while skepticism is healthy, it must always be friendly. Our assertions should be backed up with evidence as much as possible.
+ * We work towards common conventions and embrace debate
+
+ * We continually improve the way we do things
+
+ * We expect and embrace disruption
 
 ## We take performance really seriously
 
@@ -36,6 +56,16 @@ Performance is a key feature of our code, and it is a requirement that underpins
  * We value user convenience over developer convenience.
 
 For example we would not choose a new code library or technique which offers us convenience at the expense of the user's experience.
+
+## We strive to be as objective as possible
+
+People are complicated. We expect to be misunderstood and to misunderstand others. When this occurs we resist the urge to be defensive or assign blame, and we try not to take offense where no offense was intended. We give each other the benefit of the doubt.
+
+ * We are open to alternative ways of thinking.
+ * We are more interested in the right solution for our team than an individual opinion.
+ * Technology moves fast and we embrace change.
+
+We don't do things, "because that's how we've always done it". And while skepticism is healthy, it must always be friendly. Our assertions should be backed up with evidence as much as possible.
 
 ## We practice test driven development
 
@@ -58,36 +88,6 @@ Automated process saves time and avoids unintended errors.  We encourage develop
  * We want developers to have a deep understanding of the tools, workflows, and responsibilities that go into producing production ready software.
 
  * We continually push to automate as much as possible. Fix the process as well as the product.
-
-## We all collectively own everything the team creates
-
-Building a good code infrastructure involves the work of the team, not an individual who feels like the sole proprietor of a project. Collective ownership gives us all the opportunity to train and learn, and helps individual team members avoid becoming burdened by being the only one who knows some specific thing.
-
- * Collaboration is key
-
- * We work towards common conventions and embrace debate
-
- * We continually improve the way we do things
-
- * We expect and embrace disruption
-
-## We value all of our users
-
-This is for everyone. Accessible design is good design. Everything we build should be as inclusive as possible. We’re building things for the whole country not just elite users.
-
- * We recognise that the people who most need our services are often the people who find them hardest to use. We think about those people from the start.
-
- * We create accessible, legible experiences.
-
- * We adhere to the highest quality accessibility conventions as a priority.
-
- * We always put user convenience above developer convenience.
-
- * Making something look simple is easy. Making something simple to use is much harder, especially when the underlying systems are complex, but that’s what we always attempt to do.
-
-Further reading:
-
- * [BBC Mobile accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 
 ## We value the Linux and Open Source principles
 
