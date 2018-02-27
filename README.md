@@ -67,7 +67,7 @@ We value high quality code, refactoring and bug free production environments.  A
 
 Further reading:
 
-- "Responsive News testing principles"(https://github.com/BBC-News/responsive-news/wiki/Explain:-Testing)
+- [Responsive News testing principles](https://github.com/BBC-News/responsive-news/wiki/Explain:-Testing)
 
 ## We value automation as much as possible
 
